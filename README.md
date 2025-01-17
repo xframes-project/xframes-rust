@@ -4,6 +4,10 @@
 
 `cargo run`
 
+## Notes
+
+Just like with the Free Pascal demo app, passing `0` as `id` as integer causes the application to crash. Currently I am passing `0.0` as `id`, which is not ideal (and technically wrong). I need to find a solution.
+
 ## Screenshots
 
 Ubuntu 24.04
